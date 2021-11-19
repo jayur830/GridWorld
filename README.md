@@ -1,4 +1,4 @@
-# GridWorld
+# Grid World
 
 Grid world with basic Q-Learning
 
